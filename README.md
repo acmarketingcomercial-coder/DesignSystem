@@ -10,6 +10,7 @@ Repositório dedicado à **direção criativa, aos mockups e às especificaçõe
 2. [Direção de identidade visual, componentes e UX](docs/02-DIRECAO-DESIGN-SYSTEM.md)
 3. [Como usar os mockups e o que cada versão representa](mockups/README.md)
 4. [Handoff e critérios para implementação pelo Antigravity](docs/03-HANDOFF-ANTIGRAVITY.md)
+5. [Auditoria consolidada de travas legadas e plano único de resolução](docs/04-AUDITORIA-TRAVAS-UXUI-2026-11-19.md)
 
 ## Mockups produzidos
 
